@@ -1,5 +1,5 @@
 # Automate-Market-Alerts-and-Analysis
-Automate news extraction, analysis, email to investors and push sentiment analysis records into a database for ML forecasting
+Automate news extraction, Gen AI summary and analysis, email to investors and push sentiment analysis recors into a database for ML forecasting
 
 This project automates the entire process of monitoring financial news, analyzing market sentiment, and sending actionable alerts to investors. The core of this system is a powerful n8n workflow that orchestrates multiple services, including Google's Gemini large language model and a NocoDB database.
 
